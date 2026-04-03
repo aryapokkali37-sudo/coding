@@ -7,3 +7,10 @@ sum=tree1+tree2+tree3+tree4+tree5
 print("the sum is:",sum)
 average=sum/5
 print("the average is:",average)
+
+a=2
+print(type(a))
+b=2.5
+print(type(b))
+c="arya"
+print(type(c))
