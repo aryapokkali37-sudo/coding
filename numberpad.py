@@ -17,3 +17,4 @@ for i in range(4):
         fr.grid(column=i,row=l)
         lbl=Label(master=fr,text=numes[i][l],bg='#d0efff')
         lbl.pack(padx=3,pady=3)
+window.mainloop()
