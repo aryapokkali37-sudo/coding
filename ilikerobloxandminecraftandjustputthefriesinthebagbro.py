@@ -1,1 +1,1 @@
-printa("i love oneblock on THE MC")
+print("i love oneblock on THE MC")
